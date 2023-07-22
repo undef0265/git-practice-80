@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 develop branch
-=======
-develop branch
->>>>>>> develop
